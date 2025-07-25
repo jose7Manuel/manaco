@@ -1,2 +1,4 @@
 # manaco
 Fulltack Proyect
+# PROYECTO WEB DE  MANACO 
+# HERRAMIENTAS MYSQL, PHP, LARAVEL
